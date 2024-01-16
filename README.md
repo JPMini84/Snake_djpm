@@ -31,12 +31,12 @@ Quando se abre o jogo é disponibilizado ao jogador a opção de começar, depoi
 ## Firebase
 ### Graddle
 ``` kt
-    implementation(platform("com.google.firebase:firebase-bom:32.7.0"))
-    implementation("com.google.firebase:firebase-analytics")
-    implementation("com.google.firebase:firebase-auth")
-    implementation("com.google.firebase:firebase-database-ktx:+")
-    implementation ("com.google.firebase:firebase-firestore-ktx:+")
-    implementation ("com.google.firebase:firebase-firestore:+")
+implementation(platform("com.google.firebase:firebase-bom:32.7.0"))
+implementation("com.google.firebase:firebase-analytics")
+implementation("com.google.firebase:firebase-auth")
+implementation("com.google.firebase:firebase-database-ktx:+")
+implementation ("com.google.firebase:firebase-firestore-ktx:+")
+implementation ("com.google.firebase:firebase-firestore:+")
 ```
 ### Packages
 ``` kt
