@@ -53,6 +53,6 @@ import com.google.firebase.firestore.FirebaseFirestore
 ```
 ### Instalação
 1. Clone o repositorio:
-  [https://github.com/GR3ENP1G08/Snake_djpm](https://github.com/MiguelVS2004/Snake-Android)
+  https://github.com/JPMini84/Snake_djpm.git
 2. Abra-o projeto no Android Studio e abra-o utilizando um telemóvel ou o emulador.
 3. Aproveite o jogo.
