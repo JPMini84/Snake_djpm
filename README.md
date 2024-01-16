@@ -21,11 +21,11 @@ Snake_djpm é um jogo inspirado no jogo "Snake" original, desenvolvido em kotlin
 
 ### Layout
 
-
+Quando se abre o jogo é disponibilizado ao jogador a opção de começar, depois que começar podera jogar, depois quando o jogador perder podera visualizar o seu score e o highscore.
 
 ### Features
-- Controlos: simples de aprender.
-- Highscore: Podes comparar com outros players
+- Controlos: Simples de aprender, bastando apenas pressionar a seta que a aponta para a direção que deseja ir e o botão de pause que lhe permite pausar o jogo.
+- Highscore: Permeti lhe saber qual é o maior highscore alguma vez feito.
 ### Instalação
 1. Clone o repositorio:
   [https://github.com/GR3ENP1G08/Snake_djpm](https://github.com/MiguelVS2004/Snake-Android)
