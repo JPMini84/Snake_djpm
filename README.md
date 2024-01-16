@@ -32,7 +32,7 @@ Quando se abre o jogo é disponibilizado ao jogador a opção de começar, depoi
 Clique nos botões na tela para movimentar a cobra.
 
 ## Firebase
-### Graddle
+### Gradle
 ``` kt
 implementation(platform("com.google.firebase:firebase-bom:32.7.0"))
 implementation("com.google.firebase:firebase-analytics")
