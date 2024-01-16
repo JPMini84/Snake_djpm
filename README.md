@@ -5,7 +5,6 @@
 - Tomás Carvalho - 25963
 ## Índice
 
-- 
 - Descrição
 - Layout
 - Features
