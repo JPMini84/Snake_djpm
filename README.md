@@ -5,7 +5,9 @@
 - Tomás Carvalho - 25963
 ## Índice
 
+- 
 - Descrição
+- Layout
 - Features
 - Instalação
 - Controles
@@ -16,6 +18,10 @@ Snake_djpm é um jogo inspirado no jogo "Snake" original, desenvolvido em kotlin
 ![menu](https://github.com/JPMini84/Snake_djpm/assets/118979969/3df2b31f-4abe-41fe-9852-62872357c0ef)
 ![jogo](https://github.com/JPMini84/Snake_djpm/assets/118979969/842375c2-5d9a-4e4a-96e3-0ba3e6058ff6)
 ![Score](https://github.com/JPMini84/Snake_djpm/assets/118979969/c56fe61a-732b-41bd-abf4-b56f618267ed)
+
+### Layout
+
+
 
 ### Features
 - Controlos: simples de aprender.
