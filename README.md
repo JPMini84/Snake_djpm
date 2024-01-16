@@ -27,13 +27,6 @@ Quando se abre o jogo é disponibilizado ao jogador a opção de começar, depoi
 ### Features
 - Controlos: Simples de aprender, bastando apenas pressionar a seta que a aponta para a direção que deseja ir e o botão de pause que lhe permite pausar o jogo.
 - Highscore: Permeti lhe saber qual é o maior highscore alguma vez feito.
-### Instalação
-1. Clone o repositorio:
-  [https://github.com/GR3ENP1G08/Snake_djpm](https://github.com/MiguelVS2004/Snake-Android)
-2. Abra-o projeto no Android Studio e abra-o utilizando um telemóvel ou o emulador.
-3. Aproveite o jogo.
-### Controles
-Clique nos botões na tela para movimentar a cobra.
 
 ## Firebase
 ### Graddle
@@ -55,3 +48,10 @@ import kotlin.math.pow
 import kotlin.math.sqrt
 import com.google.firebase.firestore.FirebaseFirestore
 ```
+### Instalação
+1. Clone o repositorio:
+  [https://github.com/GR3ENP1G08/Snake_djpm](https://github.com/MiguelVS2004/Snake-Android)
+2. Abra-o projeto no Android Studio e abra-o utilizando um telemóvel ou o emulador.
+3. Aproveite o jogo.
+### Controles
+Clique nos botões na tela para movimentar a cobra.
