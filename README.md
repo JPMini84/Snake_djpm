@@ -12,6 +12,7 @@
 - Instalação
 - Controles
 - Firebase
+
 ### Descrição
 
 Snake_djpm é um jogo inspirado no jogo "Snake" original, desenvolvido em kotlin, neste jogo o objetivo é conseguir apanhar o maior número de comida possível, cada pedaço de comida obtido corresponde a um ponto.
@@ -27,6 +28,9 @@ Quando se abre o jogo é disponibilizado ao jogador a opção de começar, depoi
 ### Features
 - Controlos: Simples de aprender, bastando apenas pressionar a seta que a aponta para a direção que deseja ir e o botão de pause que lhe permite pausar o jogo.
 - Highscore: Permeti lhe saber qual é o maior highscore alguma vez feito.
+
+### Controles
+Clique nos botões na tela para movimentar a cobra.
 
 ## Firebase
 ### Graddle
@@ -53,5 +57,3 @@ import com.google.firebase.firestore.FirebaseFirestore
   [https://github.com/GR3ENP1G08/Snake_djpm](https://github.com/MiguelVS2004/Snake-Android)
 2. Abra-o projeto no Android Studio e abra-o utilizando um telemóvel ou o emulador.
 3. Aproveite o jogo.
-### Controles
-Clique nos botões na tela para movimentar a cobra.
