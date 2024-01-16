@@ -1,5 +1,8 @@
-## Snake - Android
-
+# Snake_DJPM - Android
+## Trabalho realizado por:
+- João Sousa - 25613
+- Miguel Sousa - 25977
+- Tomás Carvalho - 25963
 ## Índice
 
 - Descrição
