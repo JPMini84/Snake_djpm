@@ -10,9 +10,6 @@
 
 Snake_djpm é um jogo inspirado no jogo "Snake" original, desenvolvido em kotlin, neste jogo o objetivo é conseguir apanhar o maior número de comida possível, cada pedaço de comida obtido corresponde a um ponto.
 
-![image](https://github.com/MiguelVS2004/Snake-Android/assets/120597802/17782c06-4c07-436b-9382-6517500e4d86)
-![image](https://github.com/MiguelVS2004/Snake-Android/assets/120597802/62754d38-0403-43a7-871e-8ba4a4716c2a)
-
 
 ### Features
 - Controlos: simples de aprender.
